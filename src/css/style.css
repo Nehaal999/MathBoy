@@ -199,6 +199,7 @@ input:checked + .slider:before,
 	width: 100%;
 	font-size: 30px;
 	overflow-x: scroll;
+        color: white;
 }
 
 .latex-view {
