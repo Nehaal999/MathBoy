@@ -17,7 +17,7 @@
 
 | <img src="./assets/images/ScreenShot1.png"> | <img src="./assets/images/ScreenShot2.png"> |
 | ------------------------------------------- | ------------------------------------------- |
-| <img src="./assets/images/ScreenShot3.png"> | <img src="./assets/images/ScreenShot4.png"> |
+| <img src="./assets/images/ScreenShot3.png"> 
 
 <br>
 
@@ -52,5 +52,6 @@ Refer [LICENSE](LICENCE) for details
 
 <hr>
 <p align= "center">
-Made with ❤️ by <a href="https://harrytom.netlify.app/">Nehaal</a>
+Made with proud in India 🇮🇳
+Made with ❤️ by Nehaal Gupta
 </p>
