@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">
-    MathBoy is a simple web app which lets you solve maths problems with ease. No need of symbols, LaTex or anything, Just plain text!</a> 
+    <a href="mathboy.netlify.app">MathBoy</a> is a simple web app which lets you solve maths problems with ease. No need of symbols, LaTex or anything, Just plain text!</a> 
 </h4>
 
 <br>
